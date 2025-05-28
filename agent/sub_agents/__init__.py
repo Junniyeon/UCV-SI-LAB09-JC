@@ -1,0 +1,2 @@
+def critics():
+    return None
